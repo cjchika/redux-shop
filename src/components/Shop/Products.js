@@ -14,6 +14,12 @@ const SUB_PRODUCTS = [
     title: "Laptop",
     description: "Dell Latitude",
   },
+  {
+    id: "p3",
+    price: 10,
+    title: "MacBook",
+    description: "2020",
+  }
 ];
 
 const Products = (props) => {
